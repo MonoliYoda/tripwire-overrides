@@ -1,0 +1,88 @@
+.google-visualization-orgchart-linebottom {
+  border-bottom: 3px solid #3388dd;
+}
+.google-visualization-orgchart-lineleft {
+  border-left: 3px solid #3388dd;
+}
+.google-visualization-orgchart-lineright {
+  border-right: 3px solid #3388dd;
+}
+.gridster .gs-w {
+    background: rgba(0,0,0,.75);
+}
+#chainMap td.node .nodeType {
+  font-size: 0.7em;
+}
+#chainMap td.node .nodeSystem {
+  padding: 0.4rem 0 0.4rem 0;
+  font-weight: 800;
+}
+#chainMap div.node {
+  height: 40px;
+}
+#chainMap span.badge {
+  background-color: black;
+  border-color: #333;
+  border-width: 2px;
+  border-style: solid;
+}
+#chainMap .nodeIcons .badge {
+  font-weight: bold;
+  color: orange;
+  font-size: 1.5em;
+  position: absolute;
+  left: 4em;
+  width: 1em;
+}
+#chainMan .nodeIcons i {
+  background-color: orange;
+}
+#chainMap .eol, #guide .eol, .eol {
+  border-style: solid;
+  border-color:blueviolet;
+}
+#chainMap .statics {
+  position: absolute;
+  bottom: -0.7em; 
+}
+#chainMap .statics span {
+  background: black;
+  font-weight: bold;
+}
+#chainMap .wh {
+  font-weight: bold;
+}
+.class-1 {
+  color: #62abf5;
+}
+.class-2 {
+  color: #62abf5;
+}
+.class-3 {
+  color: orange;
+}
+.class-4 {
+  color: orange;
+}
+.class-5 {
+  color: #e03326;
+}
+.class-6 {
+  color: #c22e23;
+}
+.lowsec {
+  color: #ff6f00;
+  font-weight: bold;
+}
+.hisec {
+  font-weight: bold;
+}
+.nullsec {
+  font-weight: bold;
+}
+#chainGrid .space td {
+    height: 26px;
+}
+#chainMap i[data-icon=user] {
+  color: orange;
+}
