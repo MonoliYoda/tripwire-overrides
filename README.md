@@ -13,7 +13,7 @@ This set of CSS styles makes Tripwire softer, more contrasty and significantly e
 ### 3. Import overrides
 
 - In the URL box, paste `https://tripwire.eve-apps.com/`.
-- Copy the contents of the .css file in this github repo into the text box for the new style.
+- Copy the contents of `https://raw.githubusercontent.com/MonoliYoda/tripwire-overrides/main/tripwire-overrides.css` into the big text box for the new style.
 - Click `Save`.
 
 ### 4. Enjoy!
