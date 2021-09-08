@@ -89,3 +89,53 @@
 #chainMap i[data-icon=user] {
   color: orange;
 }
+
+/* Wormhole Effects */
+[data-icon=wolf-rayet]:before {
+  content: '';
+  width: .8em;
+  height: .8em;
+  margin-left: .2em;
+  background-color: #e28a0d;
+  display: inline-block;
+}
+[data-icon=magnetar]:before {
+  content: '';
+  width: .8em;
+  height: .8em;
+  margin-left: .2em;
+  background-color: #e06fdf;
+  display: inline-block;
+}
+[data-icon=redgiant]:before {
+  content: '';
+  width: .8em;
+  height: .8em;
+  margin-left: .2em;
+  background-color: #d9534f;
+  display: inline-block;
+}
+[data-icon=pulsar]:before {
+  content: '';
+  width: .8em;
+  height: .8em;
+  margin-left: .2em;
+  background-color: #428bca;
+  display: inline-block;
+}
+[data-icon=cataclysmic-variable]:before {
+  content: '';
+  width: .8em;
+  height: .8em;
+  margin-left: .2em;
+  background-color: #ffb;
+  display: inline-block;
+}
+[data-icon=blackhole]:before {
+  content: '';
+  width: .8em;
+  height: .8em;
+  margin-left: .2em;
+  background-color: #000;
+  display: inline-block;
+}
