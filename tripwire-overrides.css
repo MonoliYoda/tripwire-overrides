@@ -107,7 +107,7 @@
   background-color: #e06fdf;
   display: inline-block;
 }
-[data-icon=redgiant]:before {
+[data-icon=red-giant]:before {
   content: '';
   width: .8em;
   height: .8em;
