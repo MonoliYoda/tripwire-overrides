@@ -89,3 +89,30 @@
 #chainMap i[data-icon=user] {
   color: orange;
 }
+
+/* Wormhole Effects */
+.whEffect:before {
+  content: '';
+  width: .8em;
+  height: .8em;
+  margin-left: .2em;
+  display: inline-block;
+}
+[data-icon=wolf-rayet]:before {
+  background-color: #e28a0d;
+}
+[data-icon=magnetar]:before {
+  background-color: #e06fdf;
+}
+[data-icon=red-giant]:before {
+  background-color: #d9534f;
+}
+[data-icon=pulsar]:before {
+  background-color: #428bca;
+}
+[data-icon=cataclysmic-variable]:before {
+  background-color: #ffb;
+}
+[data-icon=blackhole]:before {
+  background-color: #000;
+}
