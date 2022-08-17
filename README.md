@@ -1,6 +1,7 @@
 # README
 
 This set of CSS styles makes Tripwire softer, more contrasty and significantly easier to read.
+Meant for use with Tripwire `https://tripwire.eve-apps.com/`, source: `https://bitbucket.org/daimian/tripwire/`
 
 ### 1. Install Stylebot
 
